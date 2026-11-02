@@ -20,7 +20,7 @@ Active member of [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activi
 - GitHub: https://github.com/1daymore
 
 **Tech Stack**
-- Languages: C++, Python
+- Languages: C, C++, Python
 - Robotics & Simulation: ROS 2, CARLA Simulator
 - Operating System: Linux (Ubuntu)
 - Tools & IDE: VS Code, Git, GitHub, CMake
