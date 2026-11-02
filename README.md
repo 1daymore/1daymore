@@ -10,8 +10,8 @@ Currently researching dynamic sequence reordering and range-efficiency assessmen
 Active member of [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activities/seame), an automotive software study club (E2E Platooning Team).
 
 **Publications & Awards**
-- **KSAE Paper**: *"Range-Efficiency Assessment Method for Dynamic e-Truck Platoon"* — Korean Society of Automotive Engineers (2026)
-- **KSAE Paper**: *"Dynamic Sequence Reordering for Truck Platooning"* — The Korean Society of Automotive Engineers, Autumn Conference (2025)
+- **KSAE Paper**: *"Range-Efficiency Assessment Method for Dynamic e-Truck Platoon"* — The Korean Society of Automotive Engineers (KSAE) Spring Conference (2026)
+- **KSAE Paper**: *"Dynamic Sequence Reordering for Truck Platooning"* — The Korean Society of Automotive Engineers (KSAE) Autumn Conference (2025)
 - **Outstanding Presentation Paper Award**, KSAE Spring Conference 2026
 - **Silver Award (4th Place)**, 2025 SEA:ME Hackathon — [2025-seame-hackathon](https://github.com/1daymore/2025-seame-hackathon)
 
