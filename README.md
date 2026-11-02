@@ -21,5 +21,6 @@ Active member of [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activi
 
 **Tech Stack**
 - Languages: C++, Python
-- Robotics & Middleware: ROS 2, Linux (Ubuntu)
-- Version Control & Tools: Git, GitHub, CMake
+- Robotics & Simulation: ROS 2, CARLA Simulator
+- Operating System: Linux (Ubuntu)
+- Tools & IDE: VS Code, Git, GitHub, CMake
