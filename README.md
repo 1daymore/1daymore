@@ -23,4 +23,4 @@ Active member of [SEA:ME@KOREA](https://auto.kookmin.ac.kr/campus/student_activi
 - Languages: C, C++, Python
 - Robotics & Simulation: ROS 2, CARLA Simulator
 - Operating System: Linux (Ubuntu)
-- Tools & IDE: VS Code, Git, GitHub, CMake
+- Tools & IDE: VS Code, GitHub, CMake
